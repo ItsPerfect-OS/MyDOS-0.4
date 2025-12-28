@@ -12,3 +12,11 @@ cls - clears the screen,
 help - shows all the commands
 ```
 The File System is RPFS
+
+# Boot
+
+This can be done in any VM, QEMU, UTM, anything
+
+(Parallels wont work)
+
+you have to boot "disk.img" to boot into MyDOS
